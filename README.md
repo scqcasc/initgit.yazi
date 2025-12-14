@@ -13,18 +13,18 @@ Not implimented yet
 ### Manual
 **Linux/macOS**
 ```
-git clone https://github.com/Lil-Dank/lazygit.yazi.git ~/.config/yazi/plugins/lazygit.yazi
+git clone https://github.com/scqcasc/initgit.yazi ~/.config/yazi/plugins/lazygit.yazi
 ```
 **Windows**
 ```
-git clone https://github.com/Lil-Dank/lazygit.yazi.git %AppData%\yazi\config\plugins\lazygit.yazi
+git clone https://github.com/scqcasc/initgit.yazi %AppData%\yazi\config\plugins\lazygit.yazi
 ```
 ## Configuration
 add this to your **keymap.toml** file
 ```toml
 [[mgr.prepend_keymap]]
-on   = [ "g", "i" ]
-run  = "plugin lazygit"
-desc = "run lazygit"
+on   = [ "g", "I" ]
+run  = "plugin initgit"
+desc = "run initgit"
 ```
 you can customize the keybinding however you like. Please refer to the [keymap.toml](https://yazi-rs.github.io/docs/configuration/keymap) documentation
