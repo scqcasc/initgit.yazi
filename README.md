@@ -7,7 +7,7 @@ Git must be installed.
 
 ### Using `ya pkg`
 ```
-Not implimented yet
+ya pkg add scqcasc/initgit
 ```
 
 ### Manual
