@@ -13,11 +13,11 @@ Not implimented yet
 ### Manual
 **Linux/macOS**
 ```
-git clone https://github.com/scqcasc/initgit.yazi ~/.config/yazi/plugins/lazygit.yazi
+git clone https://github.com/scqcasc/initgit.yazi ~/.config/yazi/plugins/initgit.yazi
 ```
 **Windows**
 ```
-git clone https://github.com/scqcasc/initgit.yazi %AppData%\yazi\config\plugins\lazygit.yazi
+git clone https://github.com/scqcasc/initgit.yazi %AppData%\yazi\config\plugins\initgit.yazi
 ```
 ## Configuration
 add this to your **keymap.toml** file
